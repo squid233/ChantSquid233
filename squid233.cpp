@@ -1,10 +1,5 @@
 #include <iostream>
-
-using namespace std;
-
 int main() {
-    for (;;) {
-        cout << "squid233" << endl;
-    }
+    while(1) std::cout << "squid233" << std::endl;
     return 0;
 }
